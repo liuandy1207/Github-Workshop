@@ -39,7 +39,7 @@ Go to [https://desktop.github.com/download/](https://desktop.github.com/download
 9. Click the blue "Commit 1 file to YOUR_BRANCH_NAME" button. 
 
 <hr>
-WRITE SOMETHING HERE -> 
+hihi moo. cow. cows.
 <hr>
 
 ### 7. \*Push\* your changes from local to remote. 
@@ -83,7 +83,7 @@ WRITE SOMETHING HERE ->
 ### 12. \*Pull\* changes from the remote repo.
 1. Open the remote reposistory web page.
 2. Click the pencil icon to edit the README.
-3. Check this checkbox by putting an x between the brackets: [ ] 
+3. Check this checkbox by putting an x between the brackets: [x] 
 4. Press the green "Commit changes..." button.
 5. Open GitHub Desktop and click "Pull origin" at the top of the screen.
 
