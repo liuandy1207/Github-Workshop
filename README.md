@@ -39,7 +39,7 @@ Go to [https://desktop.github.com/download/](https://desktop.github.com/download
 9. Click the blue "Commit 1 file to YOUR_BRANCH_NAME" button. 
 
 <hr>
-WRITE SOMETHING HERE -> 
+WRITE SOMETHING HERE -> Coool change 1
 <hr>
 
 ### 7. \*Push\* your changes from local to remote. 
@@ -93,7 +93,7 @@ WRITE SOMETHING HERE ->
 3. Select "Checkout commit".
 4. Click the grey "Checkout" button.
 5. Now that we are on an old commit, let's make a new branch off of this old commit.
-6. Open your working directory in VS code and make a DIFFERENT change to the part where we had you write something.
+6. Open your working directory in VS code and make a DIFFERENT change to the part where we had you write something. changeeee number 3
 7. Add the change and commit it.
 8. Push the changes by clicking "Publish Branch".
 9. Open the remote repo web page, and make a pull request into your fork.
